@@ -1,2 +1,3 @@
-# jackson-dataformat-rdf
-This projects contains Jackson extension component for reading and writing RDF encoded data.
+This projects contains **prototypic** [Jackson](http://wiki.fasterxml.com/JacksonHome) 
+extension component for reading and writing [RDF](http://commonsrdf.incubator.apache.org) 
+encoded data.
